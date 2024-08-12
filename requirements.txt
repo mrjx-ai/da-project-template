@@ -7,3 +7,9 @@ statsmodels
 openpyxl
 xlrd
 notebook
+jupyterlab
+jupytext
+nbconvert
+pandas-profiling
+SQLAlchemy
+plotly
