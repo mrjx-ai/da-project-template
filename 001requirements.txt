@@ -1,16 +1,17 @@
-################################
-# BASIC DATA SCIENCE LIBRARIES #
-################################
-
-# Numerical Computing:
+####################################
+# ESSENTIAL DATA SCIENCE LIBRARIES #
+####################################
 
 # Numerical Computing
 numpy
-
-# Data Manipulation and Analysis:
-
+# Scientific Computing
+scipy
 # Data Manipulation and Analysis
 pandas
+# Excel File Handling
+openpyxl
+# Excel File Reading
+xlrd
 
 # Database Interaction:
 
@@ -33,13 +34,6 @@ seaborn
 # Interactive Data Visualization
 plotly
 
-# Excel File Handling:
-
-# Excel File Handling
-openpyxl
-# Excel File Reading
-xlrd
-
 # Jupyter Ecosystem:
 
 # Jupyter Notebook Interface
@@ -53,3 +47,6 @@ nbconvert
 
 # Detailed Data Reports
 pandas-profiling
+
+# Environment variables:
+python-dotenv
